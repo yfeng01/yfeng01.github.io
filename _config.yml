@@ -42,7 +42,7 @@ header_pages:
  - publications/index.md
  - teaching/index.md
  - resources/index.md
- - problems/index.md
+ - interests/index.md
 
 
 # Build settings
