@@ -4,13 +4,6 @@ title: Research
 ---
 
 ### Preprints
-* **Convolutional Signature for Sequential Data** [arXiv:2009.06719](https://arxiv.org/abs/2009.06719){:target="_blank"}  
-Ming Min, Tomoyuki Ichiba
-
-
-### Master Thesis
-* **Numerical Methods for European Options Pricing with BSDEs**  
-Ming Min  
-Worcester Polytechnic Institute, Worcester, MA, USA, April 2018  
-\[ [PDF](thesis_template.pdf){:target="_blank"} \]
+* **Linear-Quadratic Stochastic Differential Games on Random Directed Networks** with J.-P. Fouque and and T. Ichiba, Journal of Mathematics and Statistical Science Vol. 7(3), p. 79-108, 2020.\[[arXiv](https://arxiv.org/abs/2011.04279){:target="_blank"}\]
+* **Linear-Quadratic Stochastic Differential Games on Directed Chain Networks** with J.-P. Fouque and and T. Ichiba, Journal of Mathematics and Statistical Science Vol. 7(2), p. 25-67, 2020.\[[arXiv](https://arxiv.org/abs/2003.08840){:target="_blank"}\]
 
