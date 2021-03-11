@@ -6,7 +6,7 @@ title: Teaching
 ## Teaching Experience(UCSB only)
 
 
-#### As a Teaching Assistant
+#### As Teaching Assistant
 * PSTAT 120B: Probability and Statistics (Winter ’19, Spring ’20)
 * PSTAT 120C: Probability and Statistics (Spring ’19, Fall ’19, Fall ’20)
 * PSTAT 160B: Applied Stochastic Processes (Fall ’18)
@@ -14,6 +14,6 @@ title: Teaching
 
 
 
-#### As an Instructor
+#### As Instructor
 * PSTAT 120A: Probability and Statistics (Summer ’20)
 
