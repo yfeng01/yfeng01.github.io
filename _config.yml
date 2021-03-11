@@ -41,8 +41,8 @@ header_pages:
  - index.md
  - publications/index.md
  - teaching/index.md
- - resources/index.md
  - interests/index.md
+ - resources/index.md
 
 
 # Build settings
